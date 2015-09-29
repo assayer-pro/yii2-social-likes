@@ -1,0 +1,28 @@
+{
+  "name": "assayer-pro/yii2-social-likes",
+  "description": "Yii2 wrapper for social like buttons, see http://sapegin.github.io/social-likes/",
+  "homepage": "https://github.com/assayer-pro/yii2-social-likes",
+  "license": "MIT",
+  "type": "yii2-extension",
+  "authors": [
+    {
+      "name": "Serge Larin",
+      "email": "serge.larin@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.6",
+    "bower-asset/social-likes": "^3.0@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "assayerpro\\SocialLikes\\": ""
+    }
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm",
+      "bower-asset-library": "vendor/bower"
+    }
+  }
+}
