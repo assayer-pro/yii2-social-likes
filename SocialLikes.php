@@ -126,9 +126,9 @@ class SocialLikes extends Widget
      * @access public
      */
     public $skinAssets = [
-        'classic' => 'app\base\SocialLikes\SocialAssetClassic',
-        'flat' => 'app\base\SocialLikes\SocialAssetFlat',
-        'birman' => 'app\base\SocialLikes\SocialAssetBirman',
+        'classic' => 'assayerpro\SocialLikes\SocialAssetClassic',
+        'flat' => 'assayerpro\SocialLikes\SocialAssetFlat',
+        'birman' => 'assayerpro\SocialLikes\SocialAssetBirman',
     ];
 
     /**

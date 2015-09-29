@@ -8,7 +8,7 @@
  * @license http://opensource.org/licenses/LGPL-3.0
  */
 
-namespace assayerpro\SocialLikes\SocialLikes;
+namespace assayerpro\SocialLikes;
 
 /**
  * SocialAssetFlat AssetBundle for SocialLikes widget skin
