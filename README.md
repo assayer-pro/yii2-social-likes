@@ -1,4 +1,7 @@
-# yii2-social-likes
+yii2-social-likes
+=================
+[![PHP version](https://badge.fury.io/ph/assayer-pro%2Fyii2-social-likes.svg)](http://badge.fury.io/ph/assayer-pro%2Fyii2-social-likes)
+
 Yii2 widget for Social Likes: share buttons with counters for popular social networks.
 Beautiful share buttons with counters for popular social networks: Facebook, Twitter, Google+, Pinterest, Vkontakte, etc. Uses jQuery.
 
