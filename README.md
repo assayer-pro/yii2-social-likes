@@ -7,4 +7,30 @@ Beautiful share buttons with counters for popular social networks: Facebook, Twi
 
 Yii2 wrapper for http://sapegin.github.io/social-likes/
 
+Usage
+-----
+```php
+use assayerpro\SocialLikes\SocialLikes;
+...
+echo SocialLikes::widget([
+  'skin' => 'birman',
+  'buttons' => [
+    'facebook' => [
+      'title' => 'Share link on Facebook',
+      'name' => 'Facebook',
+      'show' => true,
+    ],
+    'twitter' => [
+      'title' => 'Share link on Twitter',
+      'name' => 'Twitter',
+      'show' => true,
+    ],
+    'plusone' => [
+      'title' => 'Share link on Google+',
+      'name' => 'Google+',
+      'show' => true,
+  ],
+]);
+```
+
 
