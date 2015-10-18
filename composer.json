@@ -6,8 +6,8 @@
   "type": "yii2-extension",
   "authors": [
     {
-      "name": "Serge Larin",
-      "email": "serge.larin@gmail.com"
+        "name": "Assayer Pro",
+        "homepage" : "https://github.com/assayer-pro"
     }
   ],
   "require": {

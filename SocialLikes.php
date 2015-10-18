@@ -187,7 +187,7 @@ class SocialLikes extends Widget
     {
         $options = [
             'class' => $class,
-            'data-title' => $item['title']
+            'title' => $item['title']
         ];
 
         $name = $this->iconsOnly?'':$item['name'];
