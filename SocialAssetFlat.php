@@ -17,7 +17,7 @@ namespace assayerpro\SocialLikes;
  */
 class SocialAssetFlat extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@bower/social-likes';
+    public $sourcePath = '@bower/social-likes/dist';
     public $baseUrl = '@web';
     public $css = [
         'social-likes_flat.css',

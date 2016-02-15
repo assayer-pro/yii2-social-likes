@@ -16,7 +16,7 @@ namespace assayerpro\SocialLikes;
  */
 class SocialAssetBirman extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@bower/social-likes';
+    public $sourcePath = '@bower/social-likes/dist';
     public $baseUrl = '@web';
     public $css = [
         'social-likes_birman.css',
