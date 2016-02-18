@@ -7,6 +7,24 @@ Beautiful share buttons with counters for popular social networks: Facebook, Twi
 
 Yii2 wrapper for http://sapegin.github.io/social-likes/
 
+Installation
+------------
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+
+* Either run
+
+```
+php composer.phar require --prefer-dist "assayer-pro/yii2-social-likes" "*"
+```
+
+or add
+
+```json
+"assayer-pro/yii2-social-likes" : "*"
+```
+
+to the `require` section of your application's `composer.json` file.
+
 Usage
 -----
 ```php
